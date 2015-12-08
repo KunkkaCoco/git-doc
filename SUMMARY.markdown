@@ -1,4 +1,4 @@
 # Summary
 
-* [myboo](mybook.markdown)
+* [mybook](mybook.markdown)
 
